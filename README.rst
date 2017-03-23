@@ -26,4 +26,5 @@ demo at the end of the talk.
 Installation
 ------------
 
-1. ``pip install -r requirements.txt``
+You will need version 3.5 (or more) of Python
+Follow these instructions: http://www.residentmar.io/geoplot/installing.html
