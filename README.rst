@@ -6,7 +6,7 @@ Introduction
 ------------
 
 This repo contains the "Let's do some GIS!" notebook alongside code snippets used in the presentation.
-The slides are here :doc:`python_gis.pdf` as well.
+The slides are `here <python_gis.pdf>`_ as well.
 
 
 Abstract
